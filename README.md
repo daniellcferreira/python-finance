@@ -1,6 +1,8 @@
 # Python Finance
 
-![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas)
 
 ## Descrição
 
