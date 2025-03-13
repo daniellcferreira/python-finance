@@ -3,6 +3,10 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Visualization-FF7F0E?style=flat-square&logo=python&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-Scientific_Computing-8CA0FF?style=flat-square&logo=python&logoColor=white)
+
 
 ## Descrição
 
