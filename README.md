@@ -1,7 +1,6 @@
 # Python Finance
 
-![Badge de Versão](https://img.shields.io/badge/vers%C3%A3o-1.0.0-blue)
-![Badge de Licença](https://img.shields.io/badge/licen%C3%A7a-MIT-green)
+![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow)
 
 ## Descrição
 
