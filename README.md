@@ -8,6 +8,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-Scientific_Computing-8CA0FF?style=flat-square&logo=python&logoColor=white)
 
 
+
 ## Descrição
 
 O **Python Finance** é um projeto que tem como objetivo auxiliar na análise e visualização de dados financeiros utilizando Python. O repositório contém notebooks Jupyter que cobrem diversos aspectos da análise financeira, desde a obtenção de dados até a modelagem de portfólios.
